@@ -262,10 +262,10 @@ header.masthead {
 .btn-default {
   color: #222222;
   border-color: white;
-  background-color: white; }
+  background-color: #FFC0AA; }
   .btn-default.focus, .btn-default:focus {
     color: #222222;
-    border-color: #bfbfbf;
+    border-color: #FFC0AA;
     background-color: #e6e6e6; }
   .btn-default:hover {
     color: #222222;
