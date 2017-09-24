@@ -8,3 +8,16 @@
     width: 80%;
     height: auto;
 }
+
+.big-icon {
+    font-size: 30px;
+}
+
+<style>
+.center {
+    margin: auto;
+    width: 80%;
+    border: 3px solid #ffaa80;
+    padding: 10px;
+}
+</style>
